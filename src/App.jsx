@@ -11,7 +11,7 @@ import NavbarSection from "./components/navbar.jsx";
 import MainSection from "./components/mainSection.jsx";
 import Deals from "./components/deals.jsx";
 import ServiceOffered from "./components/serviceOffered.jsx";
-import TyresSold from "./components/TyresSold.jsx";
+import TyresSold from "./components/tyresSold.jsx";
 import Breadcrumb from "./components/breadCrums.jsx";
 import PaymentMode from "./components/paymentMode.jsx";
 import Footer from "./components/footer.jsx";
